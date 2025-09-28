@@ -18,6 +18,8 @@ Year -> 2019
 
 **NOTE** 
 
-<The official OST is not included in the actual game>
+The official OST is not included in the actual game.
+
+ ![Alt text](assets/wheresannecover.png)
 
 
