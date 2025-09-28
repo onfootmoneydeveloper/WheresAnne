@@ -1,20 +1,13 @@
 # WheresAnne
 A game made by awful dev students.
 
-** Have fun playing Where's Anne **
+**Game -> playAnneGame\bin\Windows\x86\Debug**
 
-Game -> playAnneGame\bin\Windows\x86\Debug
+**Credits**
 
-[Credits]
+Blake Leroy (Art/Programmer), Michael Cattermole (Programmer), Daniel Ivry (Programmer).
 
-- Blake Leroy (Art/Programmer), 
-- Michael Cattermole (Programmer), 
-- Daniel Ivry (Programmer).
-
-Grade -> 72 (First Class)
-
-Year -> 2019
-
+**Graded:** First CLass (72)
 
 **NOTE** 
 
