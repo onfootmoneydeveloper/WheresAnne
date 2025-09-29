@@ -13,10 +13,7 @@ Blake Leroy (Art/Programmer), Michael Cattermole (Programmer), Daniel Ivry (Prog
 **GRADE** 
 
 First Class (72)
-
-**NOTE!** 
-
-The official OST is not included in the actual game.
+**-----------------------------------------------**
 
  **the official OST for Where's Anne, made 6 years later!**
 
@@ -29,5 +26,9 @@ The official OST is not included in the actual game.
  **it looks easy, until it isn't...**
 
  ![Alt text](assets/anim22.gif)
+
+ **NOTE!** 
+
+The official OST is not included in the actual game, sorry - we were noobs.
 
 
