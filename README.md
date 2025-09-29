@@ -6,7 +6,7 @@ A game made by awful dev students.
 
 Dir -> playAnneGame\bin\Windows\x86\Debug
 
- **the official OST for Where's Anne, made 6 years later!**
+ **The official OST for Where's Anne, made 6 years later!**
 
  ![Alt text](assets/wheresannecover.png)
 
