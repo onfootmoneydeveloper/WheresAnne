@@ -19,5 +19,7 @@ First Class (72)
 The official OST is not included in the actual game.
 
  ![Alt text](assets/wheresannecover.png)
+ ![Alt text](assets/anim11.gif)
+ ![Alt text](assets/anim22.gif)
 
 
